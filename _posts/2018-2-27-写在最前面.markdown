@@ -1,0 +1,31 @@
+---
+title: 写在最前面
+date: 2018-02-01 19:55:16
+categories: blog
+---
+
+
+Hello！CC BLOG是我的个人博客。
+
+
+### personal introduction
+
+* 1998年出生
+* 性别男 爱好女
+* 南京理工大学紫金学院软件工程专业在读学生
+* 兴趣广泛 
+
+
+### coding
+
+![screenshot]({{ site.baseurl }}/images/screenshot1.png)
+
+### basketball
+
+![screenshot]({{ site.baseurl }}/images/screenshot2.png)
+
+### Figure
+
+![screenshot]({{ site.baseurl }}/images/screenshot3.png)
+
+
